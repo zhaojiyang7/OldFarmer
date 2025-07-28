@@ -1,0 +1,4 @@
+repository "OldFarmer@tj_achaimiao@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
